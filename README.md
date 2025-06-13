@@ -96,7 +96,6 @@ python3 src/main.py
 ```
 book-log-manager/
 ├── README.md
-├── requirements.txt
 ├── .gitignore
 ├── data/
 │   └── books.csv        ← 자동 생성됨
