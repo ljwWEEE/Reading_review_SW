@@ -46,7 +46,10 @@ cd C:\Users\jinwo\OneDrive\바탕 화면\book-log-manager
 ```bash
 python src/main.py
 ```
-
+macOS 에서는 아래 명령어 입력
+```bash
+python3 src/main.py
+```
 
 ## 입출력 예시
 
